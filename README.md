@@ -1,7 +1,7 @@
 # melon
 
 <p align="center">
-  <img src="https://clipart-library.com/img/1596720.png" alt="Lightbulb Icon" width="300">
+  <img src="https://clipart-library.com/img/1596720.png" alt="Melon" width="300">
 </p>
 
 
